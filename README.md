@@ -3,6 +3,7 @@
 Reactive wrapper for window size and scroll position for Vue 2.
 
 ##Motivation
+
 Sometimes you need to watch the size of the window inside the javascript application code,
 but the window object is not reactive. This plugin for Vue 2 provides a reactive object with current
 window size, scroll position and touch feature.
