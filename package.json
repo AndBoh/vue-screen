@@ -11,6 +11,14 @@
     "window size",
     "scroll position "
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndBoh/vue-screen"
+  },
+  "bugs": {
+    "url": "https://github.com/AndBoh/vue-screen/issues"
+  },
+  "homepage": "https://github.com/AndBoh/vue-screen#readme",
   "author": "Andrey Bokhan",
-  "license": "ISC"
+  "license": "MIT"
 }
