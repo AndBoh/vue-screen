@@ -1,0 +1,16 @@
+{
+  "name": "@andboh/vue-screen",
+  "version": "1.0.0",
+  "description": "Reactive wrapper for window size and scroll position for Vue 2.",
+  "main": "index.js",
+  "keywords": [
+    "vue",
+    "reactive",
+    "screen",
+    "touch detect",
+    "window size",
+    "scroll position "
+  ],
+  "author": "Andrey Bokhan",
+  "license": "ISC"
+}
